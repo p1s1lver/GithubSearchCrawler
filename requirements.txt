@@ -1,0 +1,5 @@
+pandas
+requests
+argparse
+gooey
+cx_Freeze
